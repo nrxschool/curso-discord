@@ -46,6 +46,6 @@ Ao final do curso, o aluno terá autonomia para:
 - https://support.discord.com/hc/pt-br/articles/115000435108-O-que-s%C3%A3o-Nitro-e-Nitro-Basic  
 - https://botghost.com/tools
 
-### Canal do Youtube Recomendado pra quem quiser aprender mais sobre discord:
+### Canal do Youtube Recomendado caso você queira se aprofunda mais sobre o Discord:
 ▶️YouTube🔴
 https://www.youtube.com/@DuneGG
