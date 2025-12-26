@@ -1,6 +1,6 @@
 # 🎓 Curso Introdução ao Discord
 ## Objetivo Geral
-Apresentar de forma simples e prática os principais recursos do Discord, desde a criação da conta até a configuração inicial de um servidor, incluindo canais, cargos e funções básicas de administração.
+Curso introdutório de Discord que ensina desde a criação da conta até a configuração e gestão básica de um servidor, abordando canais, cargos, permissões e os principais recursos da plataforma para estudo e comunidades.
 
 ## 🧩 Módulo 1 – Primeiros Passos no Discord
 • Apresentação do Curso e Boas vindas  
